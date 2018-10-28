@@ -18,3 +18,5 @@ let make = (n) => {
 function sum(a, b) {
   return a + b;
 }
+
+module.exports = make;
